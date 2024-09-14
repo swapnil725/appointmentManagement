@@ -1,0 +1,15 @@
+D:\F\ticket system app\api\TimeHub\TimeHub_BAT\bin\Debug\netcoreapp3.1\TimeHub_BAT.deps.json
+D:\F\ticket system app\api\TimeHub\TimeHub_BAT\bin\Debug\netcoreapp3.1\TimeHub_BAT.dll
+D:\F\ticket system app\api\TimeHub\TimeHub_BAT\bin\Debug\netcoreapp3.1\TimeHub_BAT.pdb
+D:\F\ticket system app\api\TimeHub\TimeHub_BAT\bin\Debug\netcoreapp3.1\TimeHub_DAT.dll
+D:\F\ticket system app\api\TimeHub\TimeHub_BAT\bin\Debug\netcoreapp3.1\TimeHub_Modules.dll
+D:\F\ticket system app\api\TimeHub\TimeHub_BAT\bin\Debug\netcoreapp3.1\TimeHub_DAT.pdb
+D:\F\ticket system app\api\TimeHub\TimeHub_BAT\bin\Debug\netcoreapp3.1\TimeHub_Modules.pdb
+D:\F\ticket system app\api\TimeHub\TimeHub_BAT\obj\Debug\netcoreapp3.1\TimeHub_BAT.csproj.AssemblyReference.cache
+D:\F\ticket system app\api\TimeHub\TimeHub_BAT\obj\Debug\netcoreapp3.1\TimeHub_BAT.GeneratedMSBuildEditorConfig.editorconfig
+D:\F\ticket system app\api\TimeHub\TimeHub_BAT\obj\Debug\netcoreapp3.1\TimeHub_BAT.AssemblyInfoInputs.cache
+D:\F\ticket system app\api\TimeHub\TimeHub_BAT\obj\Debug\netcoreapp3.1\TimeHub_BAT.AssemblyInfo.cs
+D:\F\ticket system app\api\TimeHub\TimeHub_BAT\obj\Debug\netcoreapp3.1\TimeHub_BAT.csproj.CoreCompileInputs.cache
+D:\F\ticket system app\api\TimeHub\TimeHub_BAT\obj\Debug\netcoreapp3.1\TimeHub_.A28B5D57.Up2Date
+D:\F\ticket system app\api\TimeHub\TimeHub_BAT\obj\Debug\netcoreapp3.1\TimeHub_BAT.dll
+D:\F\ticket system app\api\TimeHub\TimeHub_BAT\obj\Debug\netcoreapp3.1\TimeHub_BAT.pdb

@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.1.35" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.32" />
+    <PackageReference Include="MySql.Data" Version="8.3.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TimeHub_BAT\TimeHub_BAT.csproj" />
+    <ProjectReference Include="..\TimeHub_DAT\TimeHub_DAT.csproj" />
+    <ProjectReference Include="..\TimeHub_Modules\TimeHub_Modules.csproj" />
+  </ItemGroup>
+
+
+</Project>
