@@ -15,7 +15,7 @@ namespace TimeHub_BAT.Services
         static int portNumber = 587;
         static bool enableSSL = true;
         static string emailFromAddress = "yadavrajkesh9923@gmail.com"; //Sender Email Address  
-        static string password = "Rvtech@7043"; //Sender Password  
+        static string password = ""; //Sender Password  
         static string emailToAddress = "yadavrajkesh8999@gmail.com"; //Receiver Email Address  
         static string subject = "Test from SMTP";
         static string body = "Hello, This is Email sending test using gmail.";
